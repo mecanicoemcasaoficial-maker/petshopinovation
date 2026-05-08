@@ -1,7 +1,7 @@
 import { DashboardLayout } from '../../components/layout/DashboardLayout';
 import { Card, CardContent, CardHeader, CardTitle } from '../../components/ui/Card';
-import { Button } from '../../components/ui/button';
-import { Input } from '../../components/ui/input';
+import { Button } from '../../components/ui/Button';
+import { Input } from '../../components/ui/Input';
 import { Tabs } from '../../components/ui/Tabs';
 import { User, Lock, Bell, CreditCard } from 'lucide-react';
 
