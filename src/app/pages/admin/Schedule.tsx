@@ -5,7 +5,7 @@ import { Button } from '../../components/ui/button';
 import { Input } from '../../components/ui/input';
 import { Select } from '../../components/ui/select';
 import { Textarea } from '../../components/ui/Textarea';
-import { Modal } from '../../components/ui/modal';
+import { Modal } from '../../components/ui/Modal';
 import { Badge } from '../../components/ui/badge';
 import { Plus, Calendar, Clock, User, PawPrint } from 'lucide-react';
 

@@ -4,7 +4,7 @@ import { Card, CardContent } from '../../components/ui/card';
 import { Button } from '../../components/ui/button';
 import { Input } from '../../components/ui/input';
 import { Select } from '../../components/ui/select';
-import { Modal } from '../../components/ui/modal';
+import { Modal } from '../../components/ui/Modal';
 import { EmptyState } from '../../components/ui/EmptyState';
 import { Plus, PawPrint, Calendar, Syringe, Heart } from 'lucide-react';
 import { Link } from 'react-router-dom';
