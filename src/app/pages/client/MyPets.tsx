@@ -1,10 +1,10 @@
 import { useState } from 'react';
 import { DashboardLayout } from '../../components/layout/DashboardLayout';
-import { Card, CardContent } from '../../components/ui/Card';
-import { Button } from '../../components/ui/Button';
-import { Input } from '../../components/ui/Input';
-import { Select } from '../../components/ui/Select';
-import { Modal } from '../../components/ui/Modal';
+import { Card, CardContent } from '../../components/ui/card';
+import { Button } from '../../components/ui/button';
+import { Input } from '../../components/ui/input';
+import { Select } from '../../components/ui/select';
+import { Modal } from '../../components/ui/modal';
 import { EmptyState } from '../../components/ui/EmptyState';
 import { Plus, PawPrint, Calendar, Syringe, Heart } from 'lucide-react';
 import { Link } from 'react-router-dom';

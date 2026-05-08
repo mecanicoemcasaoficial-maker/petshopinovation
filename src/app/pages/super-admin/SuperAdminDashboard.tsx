@@ -1,5 +1,5 @@
 import { DashboardLayout } from '../../components/layout/DashboardLayout';
-import { Card, CardContent, CardHeader, CardTitle } from '../../components/ui/Card';
+import { Card, CardContent, CardHeader, CardTitle } from '../../components/ui/card';
 import { Store, Users, DollarSign, TrendingUp, ArrowUpRight, ArrowDownRight } from 'lucide-react';
 
 export function SuperAdminDashboard() {

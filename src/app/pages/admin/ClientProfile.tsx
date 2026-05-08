@@ -1,9 +1,9 @@
 import { DashboardLayout } from '../../components/layout/DashboardLayout';
-import { Card, CardContent, CardHeader, CardTitle } from '../../components/ui/Card';
-import { Button } from '../../components/ui/Button';
-import { Badge } from '../../components/ui/Badge';
+import { Card, CardContent, CardHeader, CardTitle } from '../../components/ui/card';
+import { Button } from '../../components/ui/button';
+import { Badge } from '../../components/ui/badge';
 import { Tabs } from '../../components/ui/Tabs';
-import { Table, TableHeader, TableBody, TableRow, TableHead, TableCell } from '../../components/ui/Table';
+import { Table, TableHeader, TableBody, TableRow, TableHead, TableCell } from '../../components/ui/table';
 import { ArrowLeft, Mail, Phone, MapPin, Calendar, DollarSign, PawPrint, ShoppingBag, Edit } from 'lucide-react';
 import { Link } from 'react-router-dom';
 

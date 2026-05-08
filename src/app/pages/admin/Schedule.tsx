@@ -1,12 +1,12 @@
 import { useState } from 'react';
 import { DashboardLayout } from '../../components/layout/DashboardLayout';
-import { Card, CardContent } from '../../components/ui/Card';
-import { Button } from '../../components/ui/Button';
-import { Input } from '../../components/ui/Input';
-import { Select } from '../../components/ui/Select';
+import { Card, CardContent } from '../../components/ui/card';
+import { Button } from '../../components/ui/button';
+import { Input } from '../../components/ui/input';
+import { Select } from '../../components/ui/select';
 import { Textarea } from '../../components/ui/Textarea';
-import { Modal } from '../../components/ui/Modal';
-import { Badge } from '../../components/ui/Badge';
+import { Modal } from '../../components/ui/modal';
+import { Badge } from '../../components/ui/badge';
 import { Plus, Calendar, Clock, User, PawPrint } from 'lucide-react';
 
 export function Schedule() {

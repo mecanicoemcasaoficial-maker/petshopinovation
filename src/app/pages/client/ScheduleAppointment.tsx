@@ -1,8 +1,8 @@
 import { useState } from 'react';
 import { DashboardLayout } from '../../components/layout/DashboardLayout';
-import { Card, CardContent, CardHeader, CardTitle } from '../../components/ui/Card';
-import { Button } from '../../components/ui/Button';
-import { Select } from '../../components/ui/Select';
+import { Card, CardContent, CardHeader, CardTitle } from '../../components/ui/card';
+import { Button } from '../../components/ui/button';
+import { Select } from '../../components/ui/select';
 import { Textarea } from '../../components/ui/Textarea';
 import { Calendar, Clock, PawPrint, Check } from 'lucide-react';
 

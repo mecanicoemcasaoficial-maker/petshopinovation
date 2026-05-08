@@ -1,5 +1,5 @@
 import { DashboardLayout } from '../../components/layout/DashboardLayout';
-import { Card, CardContent, CardHeader, CardTitle } from '../../components/ui/Card';
+import { Card, CardContent, CardHeader, CardTitle } from '../../components/ui/card';
 import { Users, PawPrint, DollarSign, Package, Calendar, Bell, TrendingUp } from 'lucide-react';
 
 export function AdminDashboard() {
