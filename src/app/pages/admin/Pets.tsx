@@ -2,7 +2,7 @@ import { useState } from 'react';
 import { DashboardLayout } from '../../components/layout/DashboardLayout';
 import { Card, CardContent } from '../../components/ui/Card';
 import { Button } from '../../components/ui/button';
-import { Input } from '../../components/ui/Input';
+import { Input } from '../../components/ui/input';
 import { Select } from '../../components/ui/Select';
 import { Modal } from '../../components/ui/Modal';
 import { Table, TableHeader, TableBody, TableRow, TableHead, TableCell } from '../../components/ui/Table';

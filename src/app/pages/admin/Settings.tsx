@@ -1,7 +1,7 @@
 import { DashboardLayout } from '../../components/layout/DashboardLayout';
 import { Card, CardContent, CardHeader, CardTitle } from '../../components/ui/Card';
 import { Button } from '../../components/ui/button';
-import { Input } from '../../components/ui/Input';
+import { Input } from '../../components/ui/input';
 import { Textarea } from '../../components/ui/Textarea';
 import { Select } from '../../components/ui/Select';
 import { Tabs } from '../../components/ui/Tabs';
